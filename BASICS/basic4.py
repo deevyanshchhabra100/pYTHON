@@ -69,4 +69,5 @@ print(str1.strip()) # will remove extra space
 str3 = "Hello I am DEEVYANSH , I am nice, I am wow"
 print(str3.replace("I am","We are"))
 
+ # name
  
