@@ -17,7 +17,13 @@ print(pow(2,3)) # means 2^3
 
 print(round(4.73))
 
-nums = [3,12,33,33,99]
+nums = [3,12,33,33,99] 
+
+# pow(9,2) :->  
+
+PermissionError(
+    arr={2}
+)
 
 print(max(nums))
 print(min(nums))
